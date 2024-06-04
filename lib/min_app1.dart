@@ -2,8 +2,8 @@ library min_app1;
 
 import 'package:flutter/material.dart';
 
-class HomeView extends StatelessWidget {
-  const HomeView({super.key});
+class MiniApp1View extends StatelessWidget {
+  const MiniApp1View({super.key});
 
   @override
   Widget build(BuildContext context) {
