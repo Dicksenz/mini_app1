@@ -9,9 +9,8 @@ class MiniApp1View extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Mini app 1'),
+        title: const Text('Mini App 1'),
       ),
-      body: Text('Hello from App 1'),
     );
   }
 }
