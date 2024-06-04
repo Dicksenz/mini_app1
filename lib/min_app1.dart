@@ -11,6 +11,7 @@ class MiniApp1View extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Mini app 1'),
       ),
+      body: Text('Hello from App 1'),
     );
   }
 }
